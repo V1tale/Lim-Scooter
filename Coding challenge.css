@@ -1,0 +1,57 @@
+body {
+  background-image: url(back.jpg);
+  background-size: cover;
+  padding-left: 15%;
+  padding-right: 17%;
+}
+.shadow {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 3%;
+  border-radius: 10px
+}
+#logo {
+  width: 25%;
+  padding-top: 5%;
+}
+header, nav {
+text-align: center;
+line-height: 5%;
+}
+.textlogo {
+  color: #00cc00;
+  font-family: Verdana;
+  font-size: 25px;
+}
+nav {
+  background-color: #00cc00;
+  padding: 1%;
+}
+.box, .descrizione {
+  display: inline-block;
+  color: white;
+  line-height: 2%;
+}
+p, span {
+  color: white;
+}
+#carica {
+width: 250px;
+height: 20px;
+background-color: orange;
+border-radius: 5px;
+}
+#carica2 {
+width: 450px;
+height: 20px;
+background-color: green;
+border-radius: 5px;
+}
+#carica3 {
+width: 100px;
+height: 20px;
+background-color: darkred;
+border-radius: 5px;
+}
+.opzione {
+  line-height:0.05;
+}
